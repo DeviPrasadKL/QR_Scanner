@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR_Scanner/static/css/main.073c9b0a.css",
+    "main.js": "/QR_Scanner/static/js/main.bab58727.js",
+    "static/js/787.0f513c58.chunk.js": "/QR_Scanner/static/js/787.0f513c58.chunk.js",
+    "index.html": "/QR_Scanner/index.html",
+    "main.073c9b0a.css.map": "/QR_Scanner/static/css/main.073c9b0a.css.map",
+    "main.bab58727.js.map": "/QR_Scanner/static/js/main.bab58727.js.map",
+    "787.0f513c58.chunk.js.map": "/QR_Scanner/static/js/787.0f513c58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bab58727.js"
+  ]
+}
